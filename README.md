@@ -1,8 +1,12 @@
-# Sentinel Privacy Shield
+# sentinel-privacy-shield
 
-Revolutionary personal privacy infrastructure.
+Privacy-by-design toolkit: PII detection, redaction and reporting baselines.
 
-## 🛠️ Components
-- **Core**: High-performance Rust backend.
-- **UI**: Modern React Dashboard.
-- **Security**: WireGuard & DoH integration.
+## Notebooks
+- `notebooks/01_pii_detection_redaction_pipeline.ipynb` — PII detection + redaction + evaluation (executed outputs saved)
+
+## Executed artefacts
+- `docs/executed/01_pii_detection_redaction_pipeline.html`
+
+## License
+MIT
